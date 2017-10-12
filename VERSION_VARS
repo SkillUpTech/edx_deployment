@@ -1,0 +1,3 @@
+OPENEDX_RELEASE=open-release/ficus.4
+CONFIGURATION_REPO=https://github.com/skilluptech/configuration
+

@@ -1,0 +1,17 @@
+{
+  "COMMON_SSH_PASSWORD_AUTH":"yes",
+  "edx_ansible_source_repo": "https://github.com/skilluptech/configuration.git",
+  "edx_platform_repo": "https://github.com/skilluptech/edx-platform.git",
+  "configuration_version": "open-release/ficus.4",
+  "edx_platform_version": "open-release/ficus.4",
+  "certs_version": "open-release/ficus.4",
+  "forum_version": "open-release/ficus.4",
+  "xqueue_version": "open-release/ficus.4",
+  "configuration_version": "open-release/ficus.4",
+  "demo_version": "open-release/ficus.4",
+  "NOTIFIER_VERSION": "open-release/ficus.4",
+  "INSIGHTS_VERSION": "open-release/ficus.4",
+  "ANALYTICS_API_VERSION": "open-release/ficus.4",
+  "ECOMMERCE_VERSION": "open-release/ficus.4",
+  "ECOMMERCE_WORKER_VERSION": "open-release/ficus.4"
+}
